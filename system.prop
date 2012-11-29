@@ -1,0 +1,8 @@
+#
+# system.prop for tsx03
+#
+ro.carrier=wifi-only
+ro.sf.lcd_density=240
+persist.tegra.nvmmlite=1
+persist.sys.fw.camera.status=1
+tf.enable=y
